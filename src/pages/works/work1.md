@@ -1,14 +1,16 @@
 ---
-title: Senior Detective
-date: 1990 - Present
-url: http://ropibbe.nf/savadru
-location: Los Angeles, California
-org: Los Angeles Police Department (LAPD)
-tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
+title: DevOps Engineer
+date: 2022 - Present
+url: https://kubixcloud.com
+location: Harju maakond, Estonia
+org: KubixCloud
+tags: ["Cloud Operations", "CI/CD", "Kubernetes", "AWS", "On-Premise"]
 ---
 
-- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
-- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
-- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
-- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
-- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.
+The company I worked for decided to move the project from an on-premise environment to AWS. Before this decision, I was managing 12 remote servers and a Proxmox with 120 VMs. Some of the technologies we used include: MongoDB, Rancher-k8s, k3s, Kong-Gateway, Redis, Proxmox, Ansible, Harbor, Graylog, etc. During the transition to AWS, I ensured the completion of the transition process by finding the AWS equivalents of these systems
+
+- Choosing the right deployment models
+- Conducting the testing protocol and critical monitoring
+- Automation of repetitive tasks
+- Provide the server support and the application support
+- Ensure that the backup is sufficient, and if there isn’t any adequate backup, then you have to create a backup policy as well.

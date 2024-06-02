@@ -1,5 +1,5 @@
 ---
-title: Telegram
-icon: mdi:telegram
-url: https://t.me/
+title: WhatsApp
+icon: mdi:whatsapp
+url: https://wa.me/5547624468
 ---

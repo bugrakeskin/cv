@@ -1,8 +1,8 @@
 ---
-title: The Crew
-date: 11/2022 - Present
-url: http://em.gl/giw
-url_name: em.gl
+title: The Cloud Way
+date: 06/2024 
+url: 
+url_name: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Will write about my cloud experiences.

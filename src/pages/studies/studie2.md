@@ -1,8 +1,8 @@
 ---
-title: Advanced SWAT Tactics and Leadership Training
-location: FBI Academy
-url: http://ni.sb/mehanad
-institute: FBI Academy
-date: 1975-1980
-tags: ["Conflict Resolution", "Strategic Planning", "Risk Assessment", "Firearms Training", "Emergency Response"]
+title: University
+location: Turkey
+url: https://www.anadolu.edu.tr/
+institute: Anadolu University
+date: 2004-2014
+tags: ["Bachelor of Business"]
 ---
